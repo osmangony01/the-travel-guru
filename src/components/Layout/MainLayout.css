@@ -1,0 +1,6 @@
+.main-layout{
+    background: url('../../../public/images/rectangle1.png'), #C4C4C4;
+}
+.inner-layout{
+    background: rgba(0, 0, 0, 0.7);;
+}
